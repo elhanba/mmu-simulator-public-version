@@ -3,7 +3,7 @@
 📌 Project Overview
 
 The MMU Simulator is an educational project designed to simulate the behavior of a Memory Management Unit (MMU) in an operating system. The simulator helps visualize and understand concepts such as:
-	- Logical to physical address translation
+- Logical to physical address translation
 	- Paging and page tables
 	- Page size and frame allocation
 	- Address offset calculations
